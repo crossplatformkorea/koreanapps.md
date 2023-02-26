@@ -25,3 +25,4 @@
 - [브랜디](https://blog.brandi.co.kr/31)
 - [앤트크라우드](https://www.antcrowd.com)
 - [위카운트](https://appagg.com/ios/social-networking/wecount-space-38065972.html)
+- [데보션](https://apps.apple.com/kr/app/devocean-%EB%8D%B0%EB%B3%B4%EC%85%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%98%81%EA%B0%90%EC%9D%98-%EB%B0%94%EB%8B%A4/id1632168032)
