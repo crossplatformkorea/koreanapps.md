@@ -1,6 +1,7 @@
 # 크로스플랫폼 국산 앱
 
 크로스플랫폼으로 만들어진 국산 앱 리스트입니다.
+
 > 앱 홍보 PR도 환영합니다. 정보 업데이트 PR 날려주시면 감사하겠습니다.
 
 ## 리액트네이티브
@@ -18,6 +19,7 @@
 - [클라썸](https://www.classum.com)
 - [리디북스](https://ridicorp.com/story/react-native-ridibooks-ap)
 - [도기보기](https://dogibogi.co.kr)
+- [랑데부](https://apps.apple.com/us/app/랑데부/id6443541023)
 
 ## 플러터
 
