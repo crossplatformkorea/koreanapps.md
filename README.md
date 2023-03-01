@@ -19,6 +19,8 @@
 - [클라썸](https://www.classum.com)
 - [리디북스](https://ridicorp.com/story/react-native-ridibooks-ap)
 - [도기보기](https://dogibogi.co.kr)
+- [플루바오토](http://pluva.co.kr) - 농기구 자율주행 관리 앱
+- [챌린저스](https://chlngers.com)
 - [랑데부](https://apps.apple.com/us/app/랑데부/id6443541023)
 
 ## 플러터
