@@ -4,7 +4,7 @@
 
 > 앱 홍보 PR도 환영합니다. 정보 업데이트 PR 날려주시면 감사하겠습니다. 제목과 설명 함께 작성해주시면 더 보기 좋을 것 같습니다.
 
-## [리액트네이티브](https://reactnative.dev)
+## 리액트네이티브
 
 ### [토스](https://toss.im/slash-22/sessions/1-2)
 
@@ -43,7 +43,7 @@
 ### [랑데부](https://apps.apple.com/us/app/랑데부/id6443541023)
 
 
-## [플러터](https://flutter.dev)
+## 플러터
 
 > 다음으로 플러터 앱 리스트입니다.
 
@@ -57,5 +57,5 @@
 
 ### [데보션](https://apps.apple.com/kr/app/devocean-%EB%8D%B0%EB%B3%B4%EC%85%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%98%81%EA%B0%90%EC%9D%98-%EB%B0%94%EB%8B%A4/id1632168032)
 
-## [MAUI](https://www.maui.net)
+## MAUI
 
