@@ -8,7 +8,7 @@
 
 ### [토스](https://toss.im/slash-22/sessions/1-2)
 
-국민 금융앱, 송금앱
+- 국민 금융앱, 송금앱
 
 ### [굿닥](https://www.goodoc.co.kr)
 
@@ -36,12 +36,15 @@
 
 ### [플루바오토](http://pluva.co.kr)
 
-농기구 자율주행 관리 앱
+- 농기구 자율주행 관리 앱
 
 ### [챌린저스](https://chlngers.com)
 
 ### [랑데부](https://apps.apple.com/us/app/랑데부/id6443541023)
 
+### [그루우](https://groo.pro)
+
+- 반려식물 앱(기록, 쇼핑, 커뮤니티)
 
 ## 플러터
 
@@ -58,4 +61,3 @@
 ### [데보션](https://apps.apple.com/kr/app/devocean-%EB%8D%B0%EB%B3%B4%EC%85%98-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%98%81%EA%B0%90%EC%9D%98-%EB%B0%94%EB%8B%A4/id1632168032)
 
 ## MAUI
-
