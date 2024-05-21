@@ -54,6 +54,13 @@
 
 - 그림일기를 그리고 공유할 수 있는 앱 [ios](https://apps.apple.com/kr/app/%EC%98%A4%EB%8A%98%EC%9D%98-%EA%B7%B8%EB%A6%BC%EC%9D%BC%EA%B8%B0-%EA%B7%B8%EB%A6%BC%EC%9C%BC%EB%A1%9C-%ED%91%9C%ED%98%84%ED%95%98%EB%8A%94-%ED%95%98%EB%A3%A8/id1603506813), [android](https://play.google.com/store/apps/details?id=com.kunwookwon.TodaysPictureDiary&pli=1)
 
+### [수학대왕](https://www.iammathking.com/)
+
+- 타블릿, 폰에서 대한민국의 초중고교 수학 교육과정에 해당하는 문제를 풀며 재미를 느낄 수 있는 앱. AI는 덤
+- [App Store](https://apps.apple.com/kr/app/%EC%88%98%ED%95%99%EB%8C%80%EC%99%95-ai%EB%94%94%EC%A7%80%ED%84%B8%EB%AC%B8%EC%A0%9C%EC%A7%91/id1501165233)
+- [Play Store](https://play.google.com/store/apps/details?id=com.iammathking&hl=ko&gl=US&pli=1)
+- [웹에서 체험해보기](https://www.iammathking.com/demo)
+
 ## 플러터
 
 > 다음으로 플러터 앱 리스트입니다.
