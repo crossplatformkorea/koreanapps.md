@@ -66,7 +66,12 @@
 - 강아지, 고양이를 위한 똑똑한 반려동물 건강 수첩
 - [App Store](https://apps.apple.com/kr/app/id1516235091)
 - [Play Store](https://play.google.com/store/apps/details?id=com.rn_drpet)
-  
+
+### [인프런](https://www.inflearn.com/)
+
+- 인프런의 강의를 들을수 있는 player 앱
+- [App Store](https://apps.apple.com/kr/app/%EC%9D%B8%ED%94%84%EB%9F%B0-%EB%9D%BC%EC%9D%B4%ED%94%84%ED%83%80%EC%9E%84-%EC%BB%A4%EB%A6%AC%EC%96%B4-%ED%94%8C%EB%9E%AB%ED%8F%BC/id6502435542)
+- [Play Store](https://play.google.com/store/apps/details?id=com.inflab.inflearn&hl=ko)
 
 ## 플러터
 
